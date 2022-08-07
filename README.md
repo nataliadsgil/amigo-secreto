@@ -1,3 +1,7 @@
+# Sorteador de amigo secreto
+
+Projeto desenvolvido durante o curso de testes unitários com React, da Alura
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
